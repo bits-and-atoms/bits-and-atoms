@@ -3,7 +3,7 @@
 ## About Me
 - 📖 I'm a Computer Science & Engineering Undergraduate student at NIT, Silchar.
 - 🌱 I’m currently learning Flutter and web dev
-- 👯 I’m looking to collaborate on Flutter projects
+- 👯 I’m looking to collaborate on Web projects, Generative AI projects and Flutter projects
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subham-majumder-7ab09b251/)
 
 # 💻 Tech Stack:

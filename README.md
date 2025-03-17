@@ -1,4 +1,5 @@
 # <h1 align="center">Hi, 👋 I'm SUBHAM MAJUMDER</h1>
+![Profile Views](https://komarev.com/ghpvc/?username=bits-and-atoms&label=Profile%20views&color=0e75b6&style=flat)
 
 ## About Me
 - 📖 I'm a Computer Science & Engineering Undergraduate student at NIT, Silchar.
@@ -20,8 +21,16 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br> 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 
-  
 ## My Holopin Badges
 [![An image of @bitsandatoms's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bitsandatoms)](https://holopin.io/@bitsandatoms)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bits-and-atoms&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bits-and-atoms&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=bits-and-atoms&theme=default&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=bits-and-atoms&theme=default&hide_border=true&include_all_commits=true&count_private=false)<br/>
